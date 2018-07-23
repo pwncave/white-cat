@@ -3,7 +3,7 @@ External service interaction arise when the application interacts with an arbitr
 The ability to trigger arbitrary external service interactions does not constitute a vulnerability in its own right, however, it allows the vulnerable server to be used as an attack proxy server.
 There are a few types of external service interaction:
 - [External Service Interaction (HTTP/HTTPS)](#external-service-interaction-(http/https))
-- [External Service Interaction (DNS)](#external-service-interaction(DNS))
+- [External Service Interaction (DNS)](#external-service-interaction-(DNS))
 - [Out-of-band Resource Load (HTTP)](#out-of-band-resource-load-(http))
 
 ## External service interaction (DNS)
